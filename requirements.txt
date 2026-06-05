@@ -1,0 +1,13 @@
+# Pinned to the course's statsmodels so every test/method behaves exactly as in the labs.
+statsmodels==0.14.6
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+# Optional Google Trends loader (the committed CSV in data/ is the reliable source):
+pytrends>=4.9.2
+# Notebook tooling:
+jupyterlab>=4.0
+ipykernel>=6.29

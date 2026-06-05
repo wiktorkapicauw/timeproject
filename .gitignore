@@ -1,0 +1,18 @@
+# Course materials (copyrighted reference; kept locally, not published)
+lect*.pdf
+TSA_*.pdf
+labs*/
+
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# dev scratch (analysis drafts, figure dumps)
+notebooks/_*
